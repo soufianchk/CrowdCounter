@@ -1,0 +1,1 @@
+user-friendly web application using HTML, CSS, and JavaScript to count and monitor people entering a specific location in real-time. It employs computer vision and responsive design, making it ideal for tracking foot traffic in various settings, from stores to events. Simplify crowd control and gather accurate data with PeopleCounterWebApp.

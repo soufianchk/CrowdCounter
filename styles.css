@@ -1,0 +1,138 @@
+body {
+    background-image: url("/img/station.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Path: index.css */
+h1 {
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 10px #fff;
+}
+
+/* Path: index.css */
+h2 {
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 2rem;
+    text-shadow: 0 0 10px #000;
+}
+
+/* Path: index.css */
+button {
+    border: 1px solid black;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    background-color: #000;
+    border: 2px solid #fff;
+    border-radius: 1rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Path: index.css */
+button:hover {
+    background-color: #fff;
+    border: 2px solid #000;
+    color: #000;
+}
+
+/* Path: index.css */
+button:active {
+    transform: scale(1.1);
+}
+
+/* Path: index.css */
+button:focus {
+    outline: none;
+}
+
+/* Path: index.css */
+button:disabled {
+    background-color: #ccc;
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: not-allowed;
+}
+
+/* Path: index.css */
+button:disabled:hover {
+    background-color: #ccc;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+/* Path: index.css */
+button:disabled:active {
+    transform: none;
+}
+
+/* Path: index.css */
+button:disabled:focus {
+    outline: none;
+}
+
+/* Path: index.css */
+button:disabled:disabled {
+    background-color: #ccc;
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: not-allowed;
+}
+
+/* Path: index.css */
+button:disabled:disabled:hover {
+    background-color: #ccc;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+/* Path: index.css */
+button:disabled:disabled:active {
+    transform: none;
+}
+
+/* Path: index.css */
+button:disabled:disabled:focus {
+    outline: none;
+}
+
+/* Path: index.css */
+button:disabled:disabled:disabled {
+    background-color: #ccc;
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: not-allowed;
+}
+
+/* Path: index.css */
+button:disabled:disabled:disabled:hover {
+    background-color: #ccc;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.coontainer{
+    background: white;
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+    border : 3px solid black;
+    border-radius: 10px;
+}
