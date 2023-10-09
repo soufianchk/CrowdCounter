@@ -17,7 +17,6 @@ body {
     justify-content: center;
 }
 
-/* Path: index.css */
 h1 {
     font-size: 3rem;
     font-family: 'Courier New', Courier, monospace;
@@ -26,7 +25,6 @@ h1 {
     text-shadow: 0 0 10px #fff;
 }
 
-/* Path: index.css */
 h2 {
     font-size: 2rem;
     color: black;
@@ -34,7 +32,6 @@ h2 {
     text-shadow: 0 0 10px #000;
 }
 
-/* Path: index.css */
 button {
     border: 1px solid black;
     font-size: 1.2rem;
@@ -46,24 +43,20 @@ button {
     cursor: pointer;
 }
 
-/* Path: index.css */
 button:hover {
     background-color: #fff;
     border: 2px solid #000;
     color: #000;
 }
 
-/* Path: index.css */
 button:active {
     transform: scale(1.1);
 }
 
-/* Path: index.css */
 button:focus {
     outline: none;
 }
 
-/* Path: index.css */
 button:disabled {
     background-color: #ccc;
     color: #fff;
@@ -71,24 +64,20 @@ button:disabled {
     cursor: not-allowed;
 }
 
-/* Path: index.css */
 button:disabled:hover {
     background-color: #ccc;
     color: #fff;
     border: 2px solid #fff;
 }
 
-/* Path: index.css */
 button:disabled:active {
     transform: none;
 }
 
-/* Path: index.css */
 button:disabled:focus {
     outline: none;
 }
 
-/* Path: index.css */
 button:disabled:disabled {
     background-color: #ccc;
     color: #fff;
@@ -96,24 +85,20 @@ button:disabled:disabled {
     cursor: not-allowed;
 }
 
-/* Path: index.css */
 button:disabled:disabled:hover {
     background-color: #ccc;
     color: #fff;
     border: 2px solid #fff;
 }
 
-/* Path: index.css */
 button:disabled:disabled:active {
     transform: none;
 }
 
-/* Path: index.css */
 button:disabled:disabled:focus {
     outline: none;
 }
 
-/* Path: index.css */
 button:disabled:disabled:disabled {
     background-color: #ccc;
     color: #fff;
@@ -121,7 +106,6 @@ button:disabled:disabled:disabled {
     cursor: not-allowed;
 }
 
-/* Path: index.css */
 button:disabled:disabled:disabled:hover {
     background-color: #ccc;
     color: #fff;
